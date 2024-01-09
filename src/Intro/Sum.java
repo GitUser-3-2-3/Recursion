@@ -1,18 +1,19 @@
-public class Fact {
+package Intro;
+public class Sum{
     public static void main(String[] args) {
         System.out.println();
 
-        int ans = fact(5);
+        int ans = sum(5);
         System.out.println(ans);
 
         System.out.println();
     }
 
-    static int fact(int n) {
+    static int sum(int n) {
         if (n <= 1) {
             return 1;
         }
 
-        return n * fact(n - 1);
+        return n + sum(n - 1);
     }
 }

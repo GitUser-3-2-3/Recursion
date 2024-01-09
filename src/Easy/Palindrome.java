@@ -1,3 +1,4 @@
+package Easy;
 public class Palindrome {
 
     static int rev = 0;
