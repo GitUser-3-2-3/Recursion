@@ -19,6 +19,7 @@ public class LinearSearch {
         return arr[index] == target || search(arr, target, index + 1);
     }
 
+    // 1 Way
     static int searchIndex(int[] arr, int target, int index) {
         if (index == arr.length) {
             return -1;
@@ -29,6 +30,7 @@ public class LinearSearch {
         return searchIndex(arr, target, index + 1);
     }
 
+    // Way 2
     static List<Integer> list = new ArrayList<>();
 
     static void findAllIndex(int[] arr, int target, int index) {
