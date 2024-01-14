@@ -9,7 +9,7 @@ public class MergeSort {
     public static void main(String[] args) {
         System.out.println();
 
-        int[] arr = { 2, 5, 1, 8, 9, 11, 12, 18 };
+        int[] arr = { 5, 4, 3, 2, 1 };
         arr = mergeSort(arr);
         System.out.println(Arrays.toString(arr));
 
@@ -46,7 +46,7 @@ public class MergeSort {
             }
             k++;
         }
-        
+
         // it may be possible that there are some elements remaining in either of the
         // arrays
         // add all the remaining elements in the array
