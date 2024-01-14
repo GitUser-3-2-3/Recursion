@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Arrays.LinearSearch",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveRotatedBinarySearch",
+            "request": "launch",
+            "mainClass": "Arrays.RecursiveRotatedBinarySearch",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "Sorted",
+            "request": "launch",
+            "mainClass": "Arrays.Sorted",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "CountSteps",
+            "request": "launch",
+            "mainClass": "Easy.CountSteps",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "CountZeros",
+            "request": "launch",
+            "mainClass": "Easy.CountZeros",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Easy.Palindrome",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Intro.Fact",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumbers",
+            "request": "launch",
+            "mainClass": "Intro.FibonacciNumbers",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "Nto1",
+            "request": "launch",
+            "mainClass": "Intro.Nto1",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "ProdOfDigits",
+            "request": "launch",
+            "mainClass": "Intro.ProdOfDigits",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Intro.Recursion",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveBS",
+            "request": "launch",
+            "mainClass": "Intro.RecursiveBS",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "RevOfNum",
+            "request": "launch",
+            "mainClass": "Intro.RevOfNum",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Intro.Sum",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "Intro.SumOfDigits",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSort",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
+            "name": "Trianlge",
+            "request": "launch",
+            "mainClass": "Sorting.Trianlge",
+            "projectName": "Recursion_34e43da8"
+        }
+    ]
+}

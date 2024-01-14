@@ -1,4 +1,4 @@
-package Pattern;
+package Sorting;
 
 /**
  * Trianlge
