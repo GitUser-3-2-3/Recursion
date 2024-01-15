@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InPlaceMergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.InPlaceMergeSort",
+            "projectName": "Recursion_34e43da8"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
